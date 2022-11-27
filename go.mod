@@ -1,4 +1,4 @@
-module github.com/xpwu/streampushdemo
+module github.com/xpwu/go-pushdemo
 
 go 1.16
 
